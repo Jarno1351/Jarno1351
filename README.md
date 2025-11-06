@@ -1,4 +1,4 @@
-🚀 Day 1 of My Web Developer Journey
+🚀 Day 1 of My Developer Journey
 
 Hi everyone! I’m Brill, an IT student with a big goal:  
 🔧 **To become a full-fledged web developer.**
@@ -23,4 +23,4 @@ Right now, my skills are mostly in HTML and CSS—but I’m not stopping there. 
 - To track my progress from beginner → developer
 - To connect with others on the same path
 
-#WebDevJourney #SelfTaughtDev #HTML #CSS
+
